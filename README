@@ -1,0 +1,37 @@
+# Calculator App
+
+This is a simple calculator web application that performs basic arithmetic operations.
+
+## Features
+
+- Addition (+), subtraction (-), multiplication (*), and division (/) operations are supported.
+- Clear (C) button to reset the calculator.
+- Equal (=) button to compute the result.
+- Decimal point (.) to input decimal numbers.
+
+## How to Use
+
+1. Clone or download this repository.
+2. Open the `index.html` file in your web browser.
+3. Use the buttons on the calculator interface to perform calculations.
+4. Click the numbers and operators to build your expression.
+5. Press the "=" button or hit the "Enter" key to get the result.
+6. Use the "C" button to clear the screen and start a new calculation.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Code Structure
+
+- `index.html`: Contains the structure of the calculator interface.
+- `styles.css`: Stylesheet for the calculator layout.
+- `script.js`: JavaScript file containing the logic for calculator operations.
+
+## Author
+
+['AsmaKhanam'] - [asmakhanam@outlook.in]
+
+Feel free to fork and modify this project for your own use!
